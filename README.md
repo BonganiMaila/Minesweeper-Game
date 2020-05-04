@@ -40,4 +40,4 @@ Minesweeper is a single-player puzzle video game. The objective of the game is t
 You can use the npm start command in your terminal
 
 ## Created by
-Bongani Maila
+### Bongani Maila
