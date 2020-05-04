@@ -27,3 +27,6 @@ Github
 
 ## How to launch the game
 You can use the npm start command in your terminal
+
+## Created by
+Bongani Maila
