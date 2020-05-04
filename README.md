@@ -23,6 +23,12 @@ Google Chrome
 Github
 
 ## Screenshots
+#### Start
+![](/images/logo.png)
+
+#### While Playing
+
+#### Game Over
 
 
 ## How to launch the game
