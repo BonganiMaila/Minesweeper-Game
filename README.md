@@ -5,31 +5,36 @@ Minesweeper is a single-player puzzle video game. The objective of the game is t
 
 
 ## Table of Contents
-Index page
+- Index page
 
 
 ## Technologies Used
 ### Technologies and Tools Used:
 ### Languages:
-HTML
-CSS
-JavaScript
-React
-Bootstrap
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
 
 ## Tools
-Git
-Google Chrome
-Github
+- Git
+- Google Chrome
+- Github
 
 ## Screenshots
 #### Start
-![](/images/logo.png)
+![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(14).png)
 
 #### While Playing
+![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(16).png)
 
 #### Game Over
+![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(18).png)
 
+#### Instructions Modal
+![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(20).png)
 
 ## How to launch the game
 You can use the npm start command in your terminal
