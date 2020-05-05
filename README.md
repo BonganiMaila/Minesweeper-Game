@@ -24,16 +24,16 @@ Minesweeper is a single-player puzzle video game. The objective of the game is t
 - Github
 
 ## Screenshots
-#### Start
+### Start
 ![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(14).png)
 
-#### While Playing
+### While Playing
 ![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(16).png)
 
-#### Game Over
+### Game Over
 ![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(18).png)
 
-#### Instructions Modal
+### Instructions Modal
 ![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(20).png)
 
 ## How to launch the game
