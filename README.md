@@ -36,8 +36,7 @@ Minesweeper is a single-player puzzle video game. The objective of the game is t
 ### Instructions Modal
 ![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(20).png)
 
-## How to launch the game
-You can use the npm start command in your terminal
+
 
 ## Created by
 ### Bongani Maila
