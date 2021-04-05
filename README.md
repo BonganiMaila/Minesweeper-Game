@@ -21,7 +21,7 @@ Minesweeper is a single-player puzzle video game. The objective of the game is t
 ## Tools
 - Git
 - Google Chrome
-- Github
+
 
 ## Screenshots
 ### Start
